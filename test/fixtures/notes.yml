@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  rum_id: 
+  taste_id: 
+  tastedIntensity: 1
+  smell_id: 
+  smellIntensity: 1
+  color_id: 
+
+two:
+  user_id: 
+  rum_id: 
+  taste_id: 
+  tastedIntensity: 1
+  smell_id: 
+  smellIntensity: 1
+  color_id: 
